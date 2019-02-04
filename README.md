@@ -1,2 +1,2 @@
 # module-order-resolver
-Lychee module load order resolver tool
+SkylarkOS module load order resolver.
